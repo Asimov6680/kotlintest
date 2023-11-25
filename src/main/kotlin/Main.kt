@@ -18,7 +18,7 @@ open class Person(val name: String, var age: Int){
     }
 
     /**
-     * 兴趣爱好是啥?
+     * 兴趣爱好是什么?
      */
     open fun hobby() :String = "no"
 }
