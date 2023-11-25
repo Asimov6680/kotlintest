@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c7efb8e-f732-4613-a33d-c17ebc58a5e3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,11 +80,24 @@
       <updated>1700836442385</updated>
       <workItem from="1700836443169" duration="4000" />
       <workItem from="1700883720639" duration="1042000" />
-      <workItem from="1700887173101" duration="6099000" />
+      <workItem from="1700887173101" duration="7026000" />
     </task>
+    <task id="LOCAL-00001" summary="基本的面向对象学习">
+      <option name="closed" value="true" />
+      <created>1700897215514</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700897215514</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="基本的面向对象学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="基本的面向对象学习" />
   </component>
 </project>

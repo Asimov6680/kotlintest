@@ -1,5 +1,5 @@
 fun main() {
-    val studentA = Student("安学民",18)
+    val studentA = Student("安学民",18, "male")
 
     val petParse = if (studentA.isAdult) "nice to meet you!" else "yo~"
 
@@ -23,7 +23,7 @@ open class Person(val name: String, var age: Int){
     open fun hobby() :String = "no"
 }
 
-class Student(name: String, age: Int) : Person(name, age) {
+class Student(name: String, age: Int, val gender: String) : Person(name, age) {
     val isAdult :Boolean
         get() = age >= 18
 
